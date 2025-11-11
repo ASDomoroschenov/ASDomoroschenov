@@ -3,7 +3,6 @@
 💼 **Middle Java Developer Сбербанк**  
 🎓 Выпускник МАИ, факультет фундаментальной информатики и информационных технологий  
 🔐 Интересуюсь криптографией, теорией чисел, алгоритмами и структурами данных  
-⚙️ Опыт коммерческой разработки: Java, Spring, микросервисы, CI/CD, Kafka, PostgreSQL, Redis, MongoDB  
 
 ---
 
@@ -72,6 +71,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASDomoroschenov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASDomoroschenov&layout=compact&theme=tokyonight)
 
--- 
+---
+
 ## 📫 Контакты
 📧 Email: asdomoroschenov@mail.ru
