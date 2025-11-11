@@ -31,6 +31,8 @@
 
 - **[Система управления базой данных Java](https://github.com/ASDomoroschenov/java-data-base-service)** - Система по управлению базой данных студентов на Java, с использованием JavaFX и TCP сокетов.
 
+- **[Шина данных (Kafka) для филтрации, дедупликации, обогащения данных](https://github.com/MAIStudents/JavaServiceFiltering)** - Проект на основе микросервисной архитекуторы по реализации шины данных, которая фильтрует, дедуплецирует, обогощает данные на основе заданных правил. При реализации использовались Java, Kafka, Redis, Mongo, Spring, Prometheus, Grafana, Docker, Docker Compose.
+
 ## 📘 Лабораторные и учебные проекты
 - **[Аллоактор выделения памяти на основе рассортированного списка](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task3)**
 - **[Аллоактор выделения памяти на основе дескрипторов границ](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task4)**
