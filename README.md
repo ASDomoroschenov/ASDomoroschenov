@@ -40,7 +40,7 @@
 ---
 
 ## 🎓 Курсовые и дипломные работы
-- **[Криптозащищенный мессенджер](https://github.com/ASDomoroschenov/cryptography-course-project)** - Криптозащищенный мессенджер. Для шифрования сообщений доступно несколько алгоритмов - DES,
+- **[Криптозащищенный мессенджер](https://github.com/ASDomoroschenov/cryptography-course-project)** -- Криптозащищенный мессенджер. Для шифрования сообщений доступно несколько алгоритмов - DES,
   TripleDES, Rijndael, RSA, LOKI97, RC5. Для распределения ключей между клиентами используется
   алгоритм Диффи-Хелфмана. При реализации использовались следующие технологи - Java, Spring Boot,
   Spring Data, Spring Web Mvc, Kafka, Redis, Mongo, Vaadin, Docker, Docker Compose
