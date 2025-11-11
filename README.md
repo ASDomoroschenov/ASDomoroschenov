@@ -34,18 +34,18 @@
 - **[Система управления базой данных Java](https://github.com/ASDomoroschenov/java-data-base-service)** - Система по управлению базой данных студентов на Java, с использованием JavaFX и TCP сокетов.
 
 ## 📘 Лабораторные и учебные проекты
-- **[Аллоактор выделения памяти на основе рассортированного списка]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task3)
-- **[Аллоактор выделения памяти на основе дескрипторов границ]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task4)
-- **[Аллоактор выделения памяти на основе системы двойников]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task5)
-- **[Умножение больших чисел с помощью алгоритма Карацубы]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task7)
-- **[Умножение больших чисел с помощью алгоритма Шёнхагенне-Штрассена]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task8)
-- **[Деление больших чисел с помощью алгоритма Бурникеля-Циглера]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task10)
-- **[Бинарное дерево]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task11)
-- **[АВЛ-Дерево]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task12)
-- **[Красно-Черное дерево]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task13)
-- **[Косое дерево]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task14)
-- **[В-Дерево]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task15)
-- **[В+-Дерево]**(https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task16)
+- **[Аллоактор выделения памяти на основе рассортированного списка](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task3)**
+- **[Аллоактор выделения памяти на основе дескрипторов границ](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task4)**
+- **[Аллоактор выделения памяти на основе системы двойников](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task5)**
+- **[Умножение больших чисел с помощью алгоритма Карацубы](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task7)**
+- **[Умножение больших чисел с помощью алгоритма Шёнхагенне-Штрассена](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task8)**
+- **[Деление больших чисел с помощью алгоритма Бурникеля-Циглера](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task10)**
+- **[Бинарное дерево](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task11)**
+- **[АВЛ-Дерево](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task12)**
+- **[Красно-Черное дерево](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task13)**
+- **[Косое дерево](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task14)**
+- **[В-Дерево](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task15)**
+- **[В+-Дерево](https://github.com/ASDomoroschenov/2-2-lab/tree/main/lab1/task16)**
 - **[Задача о волке, козе и капусте с использованием средств синхронизации (очередь сообщений) (Unix/Windows)](https://github.com/ASDomoroschenov/2-1-lab/tree/main/lab4/task1)**
 - **[Парсер булевых векторов с использованием средств синхронизации (семфоры + разделяемая память)](https://github.com/ASDomoroschenov/2-1-lab/tree/main/lab4/task3)**
 - **[Интерпретатор операций над целочисленными массивами](https://github.com/ASDomoroschenov/2-1-lab/tree/main/lab4/task4)**
