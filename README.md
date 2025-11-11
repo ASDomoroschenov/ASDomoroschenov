@@ -58,3 +58,11 @@
 - **[Приложение, моделирующее приоритетную очередь на основе двусвязного списка и двоичной кучи](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab3/task9)**
 - **[Построение дерева скобочных выражений](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab3/task10)**
 - **[Приложение, моделирующее работу центра клиентской поддержки на основе структур данных - Биномиальная и Косая пирамида, Динамический массив данных, Бинарное дерево](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab4/task10)**
+
+---
+
+## ⚙️ Технологии и стек
+**Backend:** `Java` · `Spring Boot` · `Spring (Data, JPA, Web, Mvc)` . `Spribg WebFlux` . `Spring Cloud` · `Kafka` · `PostgreSQL` · `Redis` . `ELK`
+**DevOps:** `Docker` · `Docker Compose` . `Kubernetes` · `CI/CD` · `Prometheus` . `Grafana` . `OpenShift` . `Mash/Istio`
+**Crypto / Research:** `SageMath` · `Python` · `fplll` · `LLL` · `Groebner basis`  
+**Other:** `Git` . `Maven` · `Gradle` · `JUnit` · `Mockito` . `TestContainers` и т.д.
