@@ -2,8 +2,8 @@
 
 💼 **Middle Java Developer Сбербанк**  
 🎓 Выпускник МАИ, факультет фундаментальной информатики и информационных технологий  
-🔐 Интересуюсь криптографией, теорией чисел, решётками и алгоритмами факторизации  
-⚙️ Опыт коммерческой разработки: Java, Spring, микросервисы, CI/CD, Kafka, PostgreSQL, Redis  
+🔐 Интересуюсь криптографией, теорией чисел, алгоритмами и структурами данных  
+⚙️ Опыт коммерческой разработки: Java, Spring, микросервисы, CI/CD, Kafka, PostgreSQL, Redis, MongoDB  
 
 ---
 
@@ -60,7 +60,7 @@
 ---
 
 ## ⚙️ Технологии и стек
-**Backend:** `Java` `Spring Boot` `Spring (Data, JPA, Web, Mvc)` `Spring WebFlux` `Spring Security` `Spring Cloud` `Kafka` `PostgreSQL` `Redis` `ELK` `Microservices` `Паттерны проектирования` `Алгоритмы и Сруктуры данных` <br>
+**Backend:** `Java` `Spring Boot` `Spring (Data, JPA, Web, Mvc)` `Spring WebFlux` `Spring Security` `Spring Cloud` `Kafka` `PostgreSQL` `Redis` `MongoDB` `ELK` `Microservices` `Паттерны проектирования` `Алгоритмы и Сруктуры данных` <br>
 **DevOps:** `Docker` `Docker Compose` `Kubernetes` `CI/CD` `Prometheus` `Grafana` `OpenShift` `Mash/Istio` <br>
 **Crypto / Research:** `SageMath` `Python` `fplll` `LLL` `Groebner basis` <br>
 **Other:** `Git` `Maven` `Gradle` `JUnit` `Mockito` `TestContainers`
