@@ -60,7 +60,7 @@
 ---
 
 ## ⚙️ Технологии и стек
-**Backend:** `Java``Spring Boot` · `Spring (Data, JPA, Web, Mvc)` . `Spribg WebFlux` . `Spring Cloud` · `Kafka` · `PostgreSQL` · `Redis` . `ELK`
-**DevOps:** `Docker` · `Docker Compose` . `Kubernetes` · `CI/CD` · `Prometheus` . `Grafana` . `OpenShift` . `Mash/Istio`
-**Crypto / Research:** `SageMath` · `Python` · `fplll` · `LLL` · `Groebner basis`  
-**Other:** `Git` . `Maven` · `Gradle` · `JUnit` · `Mockito` . `TestContainers` и т.д.
+**Backend:** `Java` `Spring Boot` `Spring (Data, JPA, Web, Mvc)` `Spribg WebFlux` `Spring Cloud` `Kafka` `PostgreSQL` `Redis` `ELK` `microservices` `Паттерны проектирования` `Алгоритмы и Сруктуры данных` \n
+**DevOps:** `Docker` `Docker Compose` `Kubernetes` `CI/CD` `Prometheus` `Grafana` `OpenShift` `Mash/Istio`
+**Crypto / Research:** `SageMath` `Python` `fplll` `LLL` `Groebner basis`  
+**Other:** `Git` `Maven` `Gradle` `JUnit` `Mockito` `TestContainers`
