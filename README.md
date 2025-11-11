@@ -11,9 +11,7 @@
 - [Научные и исследовательские проекты](#-научные-и-исследовательские-проекты)
 - [Курсовые и дипломные работы](#-курсовые-и-дипломные-работы)
 - [Лабораторные и учебные проекты](#-лабораторные-и-учебные-проекты)
-- [Алгоритмы и математические задачи](#-алгоритмы-и-математические-задачи)
 - [Технологии и стек](#️-технологии-и-стек)
-- [Контакты](#-контакты)
 
 ---
 
@@ -62,7 +60,7 @@
 ---
 
 ## ⚙️ Технологии и стек
-**Backend:** `Java` · `Spring Boot` · `Spring (Data, JPA, Web, Mvc)` . `Spribg WebFlux` . `Spring Cloud` · `Kafka` · `PostgreSQL` · `Redis` . `ELK`
+**Backend:** `Java``Spring Boot` · `Spring (Data, JPA, Web, Mvc)` . `Spribg WebFlux` . `Spring Cloud` · `Kafka` · `PostgreSQL` · `Redis` . `ELK`
 **DevOps:** `Docker` · `Docker Compose` . `Kubernetes` · `CI/CD` · `Prometheus` . `Grafana` . `OpenShift` . `Mash/Istio`
 **Crypto / Research:** `SageMath` · `Python` · `fplll` · `LLL` · `Groebner basis`  
 **Other:** `Git` . `Maven` · `Gradle` · `JUnit` · `Mockito` . `TestContainers` и т.д.
