@@ -34,9 +34,9 @@
 - **[Шина данных (Kafka) для филтрации, дедупликации, обогащения данных](https://github.com/MAIStudents/JavaServiceFiltering)** - Проект на основе микросервисной архитекуторы по реализации шины данных, которая фильтрует, дедуплецирует, обогощает данные на основе заданных правил. При реализации использовались Java, Kafka, Redis, Mongo, Spring, Prometheus, Grafana, Docker, Docker Compose.
 
 ## 📘 Лабораторные и учебные проекты
-- **[Аллоактор выделения памяти на основе рассортированного списка](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task3)**
-- **[Аллоактор выделения памяти на основе дескрипторов границ](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task4)**
-- **[Аллоактор выделения памяти на основе системы двойников](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task5)**
+- **[Аллоактор памяти на основе рассортированного списка](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task3)**
+- **[Аллоактор памяти на основе дескрипторов границ](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task4)**
+- **[Аллоактор памяти на основе системы двойников](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task5)**
 - **[Умножение больших чисел с помощью алгоритма Карацубы](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task7)**
 - **[Умножение больших чисел с помощью алгоритма Шёнхагенне-Штрассена](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task8)**
 - **[Деление больших чисел с помощью алгоритма Бурникеля-Циглера](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task10)**
