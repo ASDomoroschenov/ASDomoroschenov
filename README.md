@@ -46,8 +46,8 @@
 - **[Косое дерево](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task14)**
 - **[В-Дерево](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task15)**
 - **[В+-Дерево](https://github.com/ASDomoroschenov/cpp-labs/tree/main/lab1/task16)**
-- **[Задача о волке, козе и капусте с использованием средств синхронизации (очередь сообщений) (Unix/Windows)](https://github.com/ASDomoroschenov/c-labs/tree/main/lab4/task1)**
-- **[Парсер булевых векторов с использованием средств синхронизации (семфоры + разделяемая память)](https://github.com/ASDomoroschenov/c-labs/tree/main/lab4/task3)**
+- **[Задача о волке, козе и капусте с использованием средств синхронизации Unix/Windows (очередь сообщений)](https://github.com/ASDomoroschenov/c-labs/tree/main/lab4/task1)**
+- **[Парсер булевых векторов с использованием средств синхронизации Unix/Windows (семфоры + разделяемая память)](https://github.com/ASDomoroschenov/c-labs/tree/main/lab4/task3)**
 - **[Интерпретатор операций над целочисленными массивами](https://github.com/ASDomoroschenov/c-labs/tree/main/lab4/task4)**
 - **[Парсер арифметических выражений](https://github.com/ASDomoroschenov/c-labs/tree/main/lab4/task5)**
 - **[Построение таблицы истинности на основе заданного булевого выражения](https://github.com/ASDomoroschenov/c-labs/tree/main/lab4/task6)**
