@@ -53,8 +53,8 @@
 - **[Построение таблицы истинности на основе заданного булевого выражения](https://github.com/ASDomoroschenov/2-1-lab/tree/main/lab4/task6)**
 - **[Интерпретатор с настраиваемым синтаксисом](https://github.com/ASDomoroschenov/2-1-lab/tree/main/lab4/task8)**
 - **[Приложение с реализаци макрозамен в тексте](https://github.com/ASDomoroschenov/2-1-lab/tree/main/lab4/task9)**
-- **[Фибоначчева куча](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab3/task3)**
+- **[Приложение для управления информацией о сотрадуниках на основе структуры данных - Фибоначчева куча](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab3/task3)**
 - **[Сбор статистический данных по заданному тексту с использованием префиксного дерева](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab3/task8)**
 - **[Приложение, моделирующее приоритетную очередь на основе двусвязного списка и двоичной кучи](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab3/task9)**
 - **[Построение дерева скобочных выражений](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab3/task10)**
-- **[Биномиальная и Косая пирамида](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab4/task10)**
+- **[Приложение, моделирующее работу центра клиентской поддержки на основе структур данных - Биномиальная и Косая пирамида, Динамический массив данных, Бинарное дерево](https://github.com/ASDomoroschenov/2-1-lab/blob/main/lab4/task10)**
