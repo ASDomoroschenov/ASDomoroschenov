@@ -1,4 +1,4 @@
-# 👋 Привет! Я Александр Доморошенов  
+# 👋 Привет! Я Александр Доморощенов  
 
 💼 **Middle Java Developer @ Сбербанк**  
 🎓 Выпускник МАИ, факультет фундаментальной информатики и информационных технологий  
@@ -60,7 +60,7 @@
 ---
 
 ## ⚙️ Технологии и стек
-**Backend:** `Java` `Spring Boot` `Spring (Data, JPA, Web, Mvc)` `Spribg WebFlux` `Spring Cloud` `Kafka` `PostgreSQL` `Redis` `ELK` `microservices` `Паттерны проектирования` `Алгоритмы и Сруктуры данных` <br>
+**Backend:** `Java` `Spring Boot` `Spring (Data, JPA, Web, Mvc)` `Spring WebFlux` `Spring Security` `Spring Cloud` `Kafka` `PostgreSQL` `Redis` `ELK` `Microservices` `Паттерны проектирования` `Алгоритмы и Сруктуры данных` <br>
 **DevOps:** `Docker` `Docker Compose` `Kubernetes` `CI/CD` `Prometheus` `Grafana` `OpenShift` `Mash/Istio` <br>
 **Crypto / Research:** `SageMath` `Python` `fplll` `LLL` `Groebner basis` <br>
 **Other:** `Git` `Maven` `Gradle` `JUnit` `Mockito` `TestContainers`
