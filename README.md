@@ -12,6 +12,7 @@
 - [Курсовые и дипломные работы](#-курсовые-и-дипломные-работы)
 - [Лабораторные и учебные проекты](#-лабораторные-и-учебные-проекты)
 - [Технологии и стек](#️-технологии-и-стек)
+- [📫 Контакты](#-контакты)
 
 ---
 
@@ -64,3 +65,13 @@
 **DevOps:** `Docker` `Docker Compose` `Kubernetes` `CI/CD` `Prometheus` `Grafana` `OpenShift` `Mash/Istio` <br>
 **Crypto / Research:** `SageMath` `Python` `fplll` `LLL` `Groebner basis` <br>
 **Other:** `Git` `Maven` `Gradle` `JUnit` `Mockito` `TestContainers`
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASDomoroschenov&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASDomoroschenov&layout=compact&theme=tokyonight)
+
+-- 
+## 📫 Контакты
+📧 Email: asdomoroschenov@mail.ru
